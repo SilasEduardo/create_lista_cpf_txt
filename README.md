@@ -2,4 +2,6 @@
 projeto para fim estudos de módulos e fs 
 
 
-comando node main.js - a lista e criada na raiz
+comando node main.js 
+a lista e criada na raiz em um arquivo TXT
+
