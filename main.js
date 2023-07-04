@@ -13,7 +13,7 @@ function geraLista(qtd){
 }
 
 
-geraLista(100) // QUANTIDADE DE CPF
+geraLista(100) // QUANTIDADE DE CPF Lista gerada 
 
 
 
